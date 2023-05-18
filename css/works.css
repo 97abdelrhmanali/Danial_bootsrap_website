@@ -1,0 +1,35 @@
+.works .port_list .active{
+    background-color: transparent;
+    color: black !important;
+}
+
+
+.works .port_list button{
+
+    color: black !important;
+
+}
+
+.works .over{
+    position: relative;
+    overflow: hidden;
+
+}
+
+.works .overlay{
+    background-color: white;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    opacity: 0;
+    flex-wrap: nowrap;
+    border: 10px solid rgba(0, 0, 0, 0.1);
+    transition: all 1s;
+}
+
+
+
+.works .over:hover .overlay{
+    opacity: 1;
+}

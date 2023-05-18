@@ -1,0 +1,43 @@
+.carousel-indicators [data-bs-target]{
+    width: 20px !important;
+    height: 20px !important;
+    border-radius:50% !important;
+    background-color: gray !important;
+}
+
+
+
+.state .anime850::after{
+    content: "850";
+    animation: Tanime850 5s;
+}
+
+
+.state .anime9450::after{
+    content: "9450";
+    animation: Tanime9450 5s;
+}
+
+
+.state .anime780::after{
+    content: "780";
+    animation: Tanime780 5s;
+}
+
+
+.state .anime230::after{
+    content: "230";
+    animation: Tanime230 5s;
+}
+
+
+.clients .sliderImg{
+    width: 10%;
+}
+
+
+@media screen and (max-width: 600px) {
+    .clients .sliderImg{
+        width: 55%;
+    }
+}

@@ -1,0 +1,22 @@
+.container .header{
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.services .container .services_content .icon{
+    transition: all 1s;
+}
+
+.services .container .services_content:hover .icon{
+    color: white;
+    background-color:black ;
+
+}
+
+.services .container .services_content p{
+    word-spacing: 2px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #748182;
+    
+}

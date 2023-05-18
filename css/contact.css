@@ -1,0 +1,27 @@
+.contact .add:hover .icon{
+    color: white;
+    background-color: black;
+}
+
+
+.contact .add .icon{
+    transition: all 1s;
+}
+
+
+.form textarea{
+    width: 98%;
+    margin: auto;
+}
+
+
+
+.form .btnan{
+    transition: all 1s;
+}
+
+
+.form .btnan:hover{
+    color:  black;
+    background-color:white ;
+}

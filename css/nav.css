@@ -1,0 +1,25 @@
+.nav-item{
+    padding: 0 0.5rem;
+}
+
+
+.nav-item .active{
+    text-decoration: underline;
+}
+.navbar-brand{
+    letter-spacing: 1px;
+    font-weight: 800;
+}
+
+
+.font{
+    font-family: 'Montserrat', sans-serif;;
+}
+
+.section-bg-color{
+    background-color: #f7f7f7;
+}
+
+.scroll ul a{
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,59 @@
+.about .content .progress{
+    height: 25px;
+    width: 100%;
+    background-image: linear-gradient(#cccccc,#f7f7f7 ,#ccc);
+    
+    overflow: hidden;
+    
+}
+
+
+.about .content .progress .progress-par90{
+    height: 100%;
+    width: 90%;
+    background-color: black;
+    position: relative;
+    animation: PrgressAnime 2s;
+}
+
+
+.about .content .progress .progress-par80{
+    height: 100%;
+    width: 80%;
+    background-color: black;
+    position: relative;
+    animation: PrgressAnime 2s;
+    
+
+}
+
+
+.about .content .progress .progress-par95{
+    height: 100%;
+    width: 95%;
+    background-color: black;
+    position: relative;
+    animation: PrgressAnime 2s;
+    
+}
+
+
+.DownBtn:hover{
+    color: black !important;
+    background-color: white !important;
+}
+.ContactBtn:hover{
+    color: white !important;
+    background-color: black !important;
+
+}
+
+
+
+
+
+.about .about_img{
+    background-image: url(../img/dots.png);
+    background-position: center center;
+    background-size: cover;
+}

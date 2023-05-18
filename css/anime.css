@@ -1,0 +1,109 @@
+@keyframes text_anime{
+    0%{content: "Larry Daniels|";}
+    4%{content: "Larry Dani|";}
+    8%{content: "Larry Da|";}
+    12%{content: "Larr|";}
+    16%{content: "|";}
+    20%{content: "De|";}
+    24%{content: "Deve|";}
+    28%{content: "Develo|";}
+    32%{content: "Develop|";}
+    36%{content: "Develope|";}
+    40%{content: "Developer|";}
+    44%{content: "Developer";}
+    48%{content: "Developer|";}
+    52%{content: "Develo|";}
+    56%{content: "Dev|";}
+    60%{content: "|";}
+    64%{content: "De|";}
+    68%{content: "Desi|";}
+    72%{content: "Desig|";}
+    76%{content: "Designe|";}
+    80%{content: "Designer|";}
+    84%{content: "Designer";}
+    88%{content: "Designer|";}
+    92%{content: "Desig|";}
+    96%{content: "De|";}
+    100%{content: "|";}
+}
+
+
+
+
+@keyframes Tanime9450{
+    0%{content: "100";}
+    10%{content: "500";}
+    20%{content: "1000";}
+    30%{content: "2000";}
+    40%{content: "3000";}
+    50%{content: "4000";}
+    60%{content: "5000";}
+    70%{content: "6000";}
+    80%{content: "7000";}
+    90%{content: "8000";}
+    100%{content: "9450";}
+}
+
+
+@keyframes Tanime780{
+    0%{content: "100";}
+    10%{content: "200";}
+    20%{content: "300";}
+    30%{content: "400";}
+    40%{content: "500";}
+    50%{content: "600";}
+    60%{content: "650";}
+    70%{content: "700";}
+    80%{content: "740";}
+    90%{content: "760";}
+    100%{content: "780";}
+}
+
+
+
+@keyframes Tanime850{
+    0%{content: "100";}
+    10%{content: "200";}
+    20%{content: "300";}
+    30%{content: "400";}
+    40%{content: "500";}
+    50%{content: "600";}
+    60%{content: "700";}
+    70%{content: "800";}
+    80%{content: "820";}
+    90%{content: "830";}
+    100%{content: "850";}
+}
+
+
+@keyframes Tanime230{
+    0%{content: "10";}
+    10%{content: "30";}
+    20%{content: "60";}
+    30%{content: "90";}
+    40%{content: "120";}
+    50%{content: "150";}
+    60%{content: "180";}
+    70%{content: "200";}
+    80%{content: "210";}
+    90%{content: "220";}
+    100%{content: "230";}
+}
+
+
+@keyframes PrgressAnime{
+    from{
+        right: 110%;
+    }
+
+
+    to{
+        right: 0;
+    }
+}
+
+
+
+
+
+
